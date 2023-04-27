@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: #1f1f1f;  /* fallback for old browsers */
+}
